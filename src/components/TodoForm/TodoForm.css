@@ -1,0 +1,14 @@
+.todo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  height: 40px;
+}
+
+.todo-item-container {
+  min-width: 960px;
+}
